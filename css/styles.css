@@ -127,6 +127,9 @@ img {
   width: 100%;
   height: 4px;
   background: #404bbf;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
 }
 .contacts-list {
   display: flex;
