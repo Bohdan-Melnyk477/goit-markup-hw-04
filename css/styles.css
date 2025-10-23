@@ -203,16 +203,22 @@ img {
 .benefits {
   padding: 120px 0;
 }
-
+.benefits-icons-list {
+  display: flex;
+  margin: auto;
+  gap: 24px;
+}
 .benefits-icons {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 264px;
   height: 112px;
   background-color: #f4f4fd;
   background-color: #f4f4fd;
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
+  border-radius: 4px;
 }
 
 .benefits-list {
